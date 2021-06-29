@@ -28,3 +28,8 @@ Thank you Z=>M academy for clear instructions on web development
 
 - GitHub - [@Shameera17](https://github.com/Shameera17)
 - Twitter - [@Shameea17](https://twitter.com/Shameea17)
+
+## Visit repository 
+
+- [GitHub](https://github.com/Shameera17/Layout-Template)
+- [GitHubPages](https://shameera17.github.io/Layout-Template/)
